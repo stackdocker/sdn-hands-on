@@ -1,5 +1,5 @@
 {
-    "Network": "10.120.0.0/20",
+    "Network": "10.120.0.0/14",
     "SubnetLen": 24,
     "SubnetMin": "10.120.0.0",
     "SubnetMax": "10.120.15.0",
